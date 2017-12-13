@@ -1,0 +1,27 @@
+{
+  "name": "hoctapaz",
+  "version": "1.0.0",
+  "description": "Notification, Chat...",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "hoctapaz",
+    "azshop"
+  ],
+  "author": "BÌNHCAO",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "bootstrap": "^3.3.7",
+    "ejs": "^2.5.7",
+    "express": "^4.16.2",
+    "googleapis": "^23.0.0",
+    "jquery": "^3.2.1",
+    "mysql": "^2.15.0",
+    "nodemon": "^1.12.1",
+    "request": "^2.83.0",
+    "socket.io": "^2.0.4"
+  }
+}
